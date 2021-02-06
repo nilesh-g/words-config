@@ -9,4 +9,3 @@ management:
       exposure:
         include: "*"
 
-word-services: subject,verb,article,adjective,noun
