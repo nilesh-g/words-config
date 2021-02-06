@@ -1,0 +1,7 @@
+
+# file added to demonstrate that application-profile.yml take higher precedence than application.yml
+
+words: Ran,Knew,Had,Saw,Bought
+
+server:
+  port: 0

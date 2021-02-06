@@ -1,0 +1,7 @@
+
+# file added to demonstrate that application-profile.yml take higher precedence than application.yml
+
+words: Boat,Movie,Book,Vote,Seat,Backpack,Partition
+
+server:
+  port: 0
