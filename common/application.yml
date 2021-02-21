@@ -1,3 +1,3 @@
 jwt:
   token:
-    secret: secret12
+    secret: secret13
